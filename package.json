@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/lovebing/react-native-baidu-map/issues"
   },
-  "homepage": "https://github.com/lovebing/react-native-baidu-map#readme"
+  "homepage": "https://github.com/lovebing/react-native-baidu-map#readme",
+  "peerDependencies": {
+    "prop-types": "^15.6.0"
+  }
 }
